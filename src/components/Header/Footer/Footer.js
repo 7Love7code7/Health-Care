@@ -25,7 +25,7 @@ function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
             {'Developed with 🖤 by '}
-            <strong><a className='text-style' href="https://github.com/Foy5al" target="_blank" rel="noreferrer noopener">Mohammd Foysal</a> </strong>{'Copyright ©'}
+            <strong><a className='text-style' href="https://github.com/7Love7code7" target="_blank" rel="noreferrer noopener">Jun Ong</a> </strong>{'Copyright ©'}
             {new Date().getFullYear()}
             {'.'}
         </Typography>
@@ -53,7 +53,7 @@ const Footer = () => {
                                             color='primary'
                                             fontSize='large' />
                                     </Avatar>
-                                    Health Haven Hospital
+                                    Jun Ong Hospital
                                 </Typography>
                                 <Divider />
                             </Box>
@@ -64,7 +64,7 @@ const Footer = () => {
                                 spacing={1} >
                                 <Avatar sx={{ mt: 1, bgcolor: pink[500] }}>
                                     <LocationOnIcon />
-                                </Avatar><span>Tejgaon I/A, Dhaka-1208</span>
+                                </Avatar><span>Talorville, IL, US</span>
                             </Stack >
 
                             <Stack direction="row"
@@ -75,7 +75,7 @@ const Footer = () => {
                                     <EmailIcon />
                                 </Avatar>
                                 <a className='text-style' href="mailto:mh.foysal.h@gmail.com">
-                                    mh.foysal.h@gmail.com
+                                    love.code.ninja@gmail.com
                                 </a>
                             </Stack >
 
@@ -87,7 +87,7 @@ const Footer = () => {
                                     <CallIcon />
                                 </Avatar>
                                 <a className='text-style' href="tel:01680xxx86">
-                                    01680xxx86
+                                    2244104616
                                 </a>
                             </Stack >
 
@@ -127,7 +127,7 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, mt: 1, bgcolor: pink[500] }}>
                                     <FacebookIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://www.facebook.com/iamfoysal.h" target="_blank" rel="noopener noreferrer" >
+                                <a className='text-style' href="https://www.linkedin.com/in/jun-ong-1591481b3/" target="_blank" rel="noopener noreferrer" >
                                     Foysal on Facebook
                                 </a>
                             </Stack >
@@ -139,7 +139,7 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, bgcolor: pink[500] }}>
                                     <LinkedInIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://www.linkedin.com/in/md-foysal-h/" target="_blank" rel="noopener noreferrer" >
+                                <a className='text-style' href="https://www.linkedin.com/in/jun-ong-1591481b3/" target="_blank" rel="noopener noreferrer" >
                                     Foysal on LinkedIn
                                 </a>
                             </Stack >
@@ -151,7 +151,7 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, bgcolor: pink[500] }}>
                                     <GitHubIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://github.com/Foy5al" target="_blank" rel="noopener noreferrer" >
+                                <a className='text-style' href="https://github.com/7Love7code7" target="_blank" rel="noopener noreferrer" >
                                     Foysal on GitHub
                                 </a>
                             </Stack >
