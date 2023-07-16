@@ -25,7 +25,7 @@ function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
             {'Developed with 🖤 by '}
-            <strong><a className='text-style' href="https://github.com/7Love7code7" target="_blank" rel="noreferrer noopener">Jun Ong</a> </strong>{'Copyright ©'}
+            <strong><a className='text-style' href="https://github.com/7Love7code7" target="_blank" rel="noreferrer noopener">Jun O</a> </strong>{'Copyright ©'}
             {new Date().getFullYear()}
             {'.'}
         </Typography>
@@ -53,7 +53,7 @@ const Footer = () => {
                                             color='primary'
                                             fontSize='large' />
                                     </Avatar>
-                                    Jun Ong Hospital
+                                    Jun O Hospital
                                 </Typography>
                                 <Divider />
                             </Box>

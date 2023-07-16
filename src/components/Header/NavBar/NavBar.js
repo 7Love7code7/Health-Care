@@ -59,7 +59,7 @@ const Navbar = () => {
                         > <HealingTwoToneIcon
                                 fontSize='large'
                             />
-                            Jun Ong Hospital
+                            Jun O Hospital
                         </Typography>
 
                         <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
@@ -146,7 +146,7 @@ const Navbar = () => {
                             sx={{ flexGrow: 1, pt: 2, display: { xs: 'flex', md: 'none' } }}
                         >
                             <HealingTwoToneIcon
-                                fontSize='large' />  Jun Ong Hospital
+                                fontSize='large' />  Jun O Hospital
                         </Typography>
                         <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
 
